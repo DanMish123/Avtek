@@ -1,0 +1,5 @@
+Preprost in intuitiven uporabniški vmesnik razvit za podjetje za izposojo avtomobilov, narejen z uporabo JavaFX v kombinaciji z Android Studio. Vmesnik omogoča uporabnikom enostavno izbiro avtomobila, določitev specifikacij, vnos datumov in osebnih podatkov ter izvedbo plačila. Celoten proces najema je zasnovan tako, da je hiter in pregleden, kar izboljša uporabniško izkušnjo ter poenostavi postopek rezervacije avtomobila. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A simple and intuitive user interface developed for a car rental company, made using JavaFX in combination with Android Studio. The interface allows users to easily choose a car, specify specifications, enter dates and personal information, and make a payment. The entire rental process is designed to be fast and transparent, which improves the user experience and simplifies the car reservation process.
